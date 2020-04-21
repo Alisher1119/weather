@@ -22,7 +22,7 @@ function wait(timeout) {
 }
 
 export default class App extends Component {
-  appid = '2dfc4cd280be0654599d4f1820bb4311';
+  appid = '<your appid>';
   // appid = '';
   uri = 'https://api.openweathermap.org/data/2.5/forecast?q=';
   // options = {
